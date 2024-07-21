@@ -5,8 +5,10 @@
 </p>
 
 <!-- Description -->
-<p align="center">Read the Litepaper: <a href="https://github.com/flexclubxyz/community/blob/main/Litepaper/Flexclub%20-%20A%20Decentralized%20Savings%20App%20and%20Token%20-%2021072024%20v0.3.pdf">Flexclub: A Decentralized Savings App and Token</a></p>
-<p align="center">Get started with Flexclub, check out the dApp: <a href="https://flexclub.xyz">flexclub.xyz</a></p>
+<ul>
+<li><p align="center">Read the Litepaper: <a href="https://github.com/flexclubxyz/community/blob/main/Litepaper/Flexclub%20-%20A%20Decentralized%20Savings%20App%20and%20Token%20-%2021072024%20v0.3.pdf">Flexclub: A Decentralized Savings App and Token</a></p></li>
+<li><p align="center">Get started with Flexclub, check out the dApp: <a href="https://flexclub.xyz">flexclub.xyz</a></p></li>
+</ul>
 
 <!-- Subheader -->
 <h2>Flexclub Improvement Proposals (FIPs)</h2>
